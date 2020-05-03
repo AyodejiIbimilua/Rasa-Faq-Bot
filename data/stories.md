@@ -9,3 +9,8 @@
 ## goodbye
 * bye
   - utter_bye
+
+
+## some questions to FAQ
+* faq
+  - respond_faq

@@ -2,6 +2,10 @@ intents:
   - greet
   - bye
   - thank
+  - faq
+
+actions:
+  - respond_faq
 
 responses:
   utter_noworries:
